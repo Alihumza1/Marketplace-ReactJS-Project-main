@@ -1,0 +1,24 @@
+#sider {
+    /* background-image: url('https://www.bcautorepair.net/Images/banner-1.jpg'); */
+    height: 400px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 25px;
+}
+
+#sider > input {
+    z-index: 1000;
+    margin-left: 28%;
+    overflow: visible;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px;
+    font-size: 18pt;
+    background-image: url('https://res.cloudinary.com/silenceiv/image/upload/v1616775441/search-icon_i5dy7o.png');
+    background-repeat: no-repeat;
+    height: 55px;
+    padding-left: 68px;
+    background-position: left;
+    background-size: 31px;
+    background-position-x: 17px;
+}
